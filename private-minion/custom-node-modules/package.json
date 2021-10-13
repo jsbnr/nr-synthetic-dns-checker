@@ -1,0 +1,6 @@
+{
+      "name": "custom-modules",
+      "dependencies": {
+            "whois-json": "^2.0.4"
+      }
+}
