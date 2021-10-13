@@ -4,6 +4,8 @@ Demo project that checks DNS expiry via whois and reports as a metric to New Rel
 
 As the proejct requires a custom node module the script has to run in a private minion which has the module available. An example is included.
 
+Some domains might need fixing up to deal with their response format which appears to vary.
+
 
 For the insert into New Relic to work you will need an insert key. 
 
